@@ -1,5 +1,4 @@
 ![](https://i.gifer.com/origin/a7/a742fbe8ed45f6455cc767ab4c41997e_w200.gif)
-
 # BudgetTracker
 This app allows clients to quickly and easily add expenses and deposits to their budget tracker with or without an internet connection.  When entering transactions offline, clients should populate the total when brought back online.
 
