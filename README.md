@@ -29,7 +29,7 @@ When brought back online:
 
 [GitHub Repo](https://github.com/DesCoding/BudgetTracker)
 
-[Heroku Link to Deployed App]() 
+[Heroku Link to Deployed App](https://git.heroku.com/desbudgettracker.git) 
 
 # Demo
 
