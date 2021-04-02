@@ -1,0 +1,26 @@
+{
+  "name": "budgettracker",
+  "version": "1.0.0",
+  "description": "track budget online and ofline",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DesCoding/BudgetTracker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DesCoding/BudgetTracker/issues"
+  },
+  "homepage": "https://github.com/DesCoding/BudgetTracker#readme",
+  "dependencies": {
+    "compression": "^1.7.4",
+    "express": "^4.17.1",
+    "lite-server": "^2.5.3",
+    "mongoose": "^5.12.2",
+    "morgan": "^1.10.0"
+  }
+}
