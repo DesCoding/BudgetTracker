@@ -32,7 +32,7 @@ When brought back online:
 
 # Demo
 
-![Demo]()
+![Demo](demo.png)
 
 # MIT License
 
